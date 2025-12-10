@@ -13,9 +13,9 @@
       "import": "./dist/my-dropdown/my-dropdown.esm.js",
       "require": "./dist/my-dropdown/my-dropdown.cjs.js"
     },
-    "./my-component": {
-      "import": "./dist/components/my-component.js",
-      "types": "./dist/components/my-component.d.ts"
+    "./my-dropdown": {
+      "import": "./dist/components/my-dropdown.js",
+      "types": "./dist/components/my-dropdown.d.ts"
     },
     "./loader": {
       "import": "./loader/index.js",
